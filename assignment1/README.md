@@ -1,7 +1,7 @@
 
 函数
 --------
-img_complex_transform(img, crop_area=0, angle=30, brightness=1)
+img_complex_transform(img, crop_area=0, angle=30, brightness=0)
 
 用途
 --------
